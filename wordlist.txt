@@ -1,0 +1,12 @@
+https://xss-game.appspot.com/level1/frame?query=test
+https://xss-game.appspot.com/level2/frame?keyword=test
+https://xss-game.appspot.com/level3/frame?message=test
+https://xss-game.appspot.com/level4/frame?next=test
+https://xss-game.appspot.com/level5/frame?default=test
+
+https://www.google.com/search?q=test
+https://www.youtube.com/results?search_query=test
+https://www.wikipedia.org/search-redirect.php?search=test
+https://github.com/search?q=test
+https://www.bing.com/search?q=test
+
